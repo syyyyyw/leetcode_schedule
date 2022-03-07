@@ -12,6 +12,8 @@
 
 [https://github.com/youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) 
 
+[https://github.com/labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm)
+
 
 数组 (7/7)
 1.	数组过于简单，但你该了解这些！
